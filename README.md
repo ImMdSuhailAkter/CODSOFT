@@ -1,5 +1,2 @@
 # CODSOFT---C-
-This repository contains three programs in cpp language, these tasks were given as a part of my codsoft internship program
-1.Number guessing game using cpp
-2.Simple calculator using cpp
-3.Tic tac toe game using cpp
+/* HELLO ALL. HERE I'LL UPLOAD ALL THE PROJECTS OF CODSOFT, WHERE I HAVE JOINED AS AN INTERN. ALL THE FILES ARE IN .java FORMAT. THANK TO CODSOFT. */
